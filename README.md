@@ -1,4 +1,4 @@
-##SMART SCHEDULER
+# SMART SCHEDULER
 
 # Project summary
 
